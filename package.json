@@ -1,0 +1,19 @@
+{
+  "name": "discord_bot_for_blog",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/SQZ777/discord_bot_for_blog.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/SQZ777/discord_bot_for_blog/issues"
+  },
+  "homepage": "https://github.com/SQZ777/discord_bot_for_blog#readme"
+}
